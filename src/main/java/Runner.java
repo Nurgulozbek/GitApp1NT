@@ -5,6 +5,8 @@ public class Runner {
         System.out.println("version 2");
         System.out.println("version 2 devamı");
 
+        //remote da degisiklik
+
 
 
     }
